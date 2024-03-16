@@ -1,0 +1,25 @@
+:doctype: book
+
+:work: Реферат на тему 
+:workNumber: 1
+
+:subject: Название предмета
+:theme: Название темы
+
+:author: Высоцкий Матвей Дмитриевич
+:group: С19-401
+
+:tutorPosition: Доцент кафедры электроники
+:tutorName: Петров Константин Александрович
+
+include::template.adoc[]
+
+= {work} 
+:title-page:
+:toc:
+
+== Цель работы
+
+== Выполнение работы
+
+== Вывод

@@ -1,0 +1,29 @@
+:ministry: Министерство науки и высшего образования Российской Федерации
+:fullname1: ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ
+:fullname2: "Национальный Исследовательский Ядерный Университет "МИФИ""
+:shortname: (НИЯУ МИФИ)
+:cathedra1: Кафедра Электроники
+//:cathedra2: Электроника
+
+//:subjectFull: по дисциплине «{subject}»
+//:themeFull: Тема: «{theme}»
+
+:madeBy: Выполнил
+:groupFull: студент {group}
+
+:checkedBy: Принял
+
+:city: Москва
+
+:title: {work} {worknumber}
+
+:doctype: book
+:reproducible:
+:listing-caption: Листинг
+:figure-caption: Рисунок
+:table-caption: Taблица
+:appendix-caption: Приложение
+:toc-title: Содержание
+:source-highlighter: rouge
+:toclevels: 3
+:imagesdir: ./images

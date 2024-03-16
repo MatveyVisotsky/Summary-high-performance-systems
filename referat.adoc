@@ -1,0 +1,39 @@
+:doctype: book
+
+:work: Реферат на тему 
+:workNumber: "Логическая модели уровня RTL. Методы тестирования модели."
+
+//:subject: Название предмета
+//:theme: Название темы
+
+:author: Высоцкий Матвей Дмитриевич
+:group: С19-401
+
+:tutorPosition: Доцент кафедры электроники
+:tutorName: Петров Константин Александрович
+
+include::template.adoc[]
+
+= {work}
+:title-page:
+:toc:
+
+== Введение 
+
+include::introduction.adoc[]
+
+== Роль RTL в процессе разработки 
+
+include::design_process.adoc[]
+
+== История RTL языков и ситуация на данный момент
+
+include::history.adoc[]
+
+== Верификация модели 
+
+include::verification.adoc[]
+
+== Заключение 
+
+include::outro.adoc[]
