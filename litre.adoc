@@ -1,0 +1,29 @@
+
+include::template.adoc[]
+
+. Н. Д. Евтушенко, В. Г. Немудров, И. А. Сырцов. Методология проектирования систем на кристалле. Основные принципы, методы, программные средства - «Электроника» №3 2003 г.
+
+. Э. Танненбаум, Т. Остин. Архитектура компьютера. - книга. Издание 6. 816с.
+
+. Сайт Wikipedia. Advanced Boolean Expression Language [Электронный ресурс]//URL:https://en.wikipedia.org/wiki/Advanced_Boolean_Expression_Language(дата обращения 02.03.2024)
+
+. Сайт Wikipedia. Verilog [Электронный ресурс]//URL:https://ru.wikipedia.org/wiki/Verilog(дата обращения 02.03.2024)
+
+. Сайт Wikipedia. VHDL [Электронный ресурс]//URL:https://ru.wikipedia.org/wiki/VHDL(дата обращения 02.03.2024)
+
+. Сайт Wikipedia. SystemVerilog [Электронный ресурс]//URL:https://ru.wikipedia.org/wiki/SystemVerilog(дата обращения 02.03.2024)
+
+. Сайт Wikipedia. SystemC [Электронный ресурс]//URL:https://ru.wikipedia.org/wiki/SystemC(дата обращения 02.03.2024)
+
+. Сайт Хабр. Python и FPGA. Тестирование [Электронный ресурс]//URL:https://habr.com/ru/articles/442010/(дата обращения 03.03.2024)
+
+. Сайт Хабр. Смотрим на современный инструмент для FPGA [Электронный ресурс]//URL:https://habr.com/ru/articles/799447/(дата обращения 03.03.2024)
+
+. Сайт Wikipedia. AHDL [Электронный ресурс]//URL:https://ru.wikipedia.org/wiki/AHDL(дата обращения 02.03.2024)
+
+. Сайт Хабр. Верификация цифровых схем. Обзор [Электронный ресурс]//URL:https://habr.com/ru/articles/481542/(дата обращения 03.03.2024)
+
+. Cocotb Documentation - Документация. Версия 1.1. 75с.
+
+. В. Снайдер. Verilator. - Документация. Версия 5.023. 234с.
+

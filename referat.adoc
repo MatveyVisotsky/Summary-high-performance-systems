@@ -37,3 +37,7 @@ include::verification.adoc[]
 == Заключение 
 
 include::outro.adoc[]
+
+== Список литературы
+
+include::litre.adoc[]
